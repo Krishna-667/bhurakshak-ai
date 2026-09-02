@@ -1,0 +1,13 @@
+{
+  "node_id": "N-03",
+  "timestamp": "2026-09-02T09:30:00Z",
+  "tilt_x": 1.82,
+  "tilt_y": 0.74,
+  "vibration_rms": 0.42,
+  "displacement_mm": 8.6,
+  "crack_width_mm": 1.14,
+  "battery_voltage": 3.91,
+  "rssi": -71,
+  "hop_count": 2,
+  "status": "active"
+}
