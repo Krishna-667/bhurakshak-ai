@@ -1,0 +1,12 @@
+{
+  "name": "bhurakshak-complete-project",
+  "private": true,
+  "version": "3.0.0",
+  "workspaces": ["frontend"],
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "install:frontend": "npm install --workspace frontend"
+  }
+}
