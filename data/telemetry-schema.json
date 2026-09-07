@@ -1,0 +1,12 @@
+{
+  "node_id": "string",
+  "timestamp": "ISO-8601",
+  "tilt": {
+    "roll_deg": "number",
+    "pitch_deg": "number"
+  },
+  "displacement_mm": "number",
+  "risk_score": "0..1",
+  "risk_level": "safe|watch|alert|critical",
+  "source": "esp32|simulator"
+}
